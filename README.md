@@ -13,7 +13,7 @@
 
 <i>Курс має модульну структуру. Кожен ноутбук може бути викрористаний окремо.</i>
 
-- <b>step1_metadata.ipynb</b>
+- <b>[**step1_metadata.ipynb**](step1_metadata.ipynb)</b>
 Аналіз метаданих людей, зразки яких доступні до аналізу. Структура популяції. histogram, piechart, swarmplot, violinplot. 
 - <b>step2_metagenome_profiling.ipynb</b>
 Приклади результатів найпоширеніших програм для профілювання метагеному. Аналіз продуктивності програм за допомогою штучних даних. Вивчення barplot, swarmplot, scatterplot.
